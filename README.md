@@ -1,54 +1,74 @@
-Level 3 Extended Diploma in Creative Media Production and Technology <img width="1920" height="1080" alt="Your paragraph text" src="https://github.com/user-attachments/assets/db7381e1-f75a-42d6-8b4e-b04bceaf9b11" />
- If you are planning to play this game that I developed, All you have to do is replace the Assets folder on GitHub with an Empty assets folder in the Unity Settings,
- This project contains a list of features that you can enjoy but also expirement by getting the quickest time and unlocking ranks
- 
- How to Run the Game
- 
- 📦 1. Create a New Unity Project
 
-Open Unity Hub.
+# Leap (Final Major Project)
 
-Click New Project.
+This project is a 2D Fast-paced Side-scroller Platformer built using the Unity Engine. It was developed as part of my Computer Science Extended Diploma qualification to demonstrate core gameplay mechanics, level design, implementation and any other additional bonuses
 
-Select the Unity version you want to use (preferably the one this project was created with).
+## Features
 
-Choose any project template (2D/etc)
+- Smooth Player movement with responsive jumping, double jumping, and sliding mechanics
+- Enemy AI and Obstacles
+- Rank Players based on coins collected and completion time
+- Interactable Power-ups
+- Weather Elements & World Building with each new Level
 
-Name it anything you’d like and create the project.
 
-📁 2. Replace the Project Files
 
-After Unity finishes creating the project, close Unity.
+## Tech Stack
 
-Go to the folder where Unity created the project on your computer.
+- Unity Engine (2D)
+- C#
+- Tilemaps
+- DOTween
+- Asynchronous & Coroutine
 
-Example paths:
+## Controls
 
-Windows: C:/Users//Documents/Unity Projects/YourProjectName/
+- Jumping: Space
+- Double Jumping: Space 2X
+- Sliding: Left Shift
 
-Mac: /Users//Documents/Unity Projects/YourProjectName/
+## How to Run the Game
 
-Delete all files and folders INSIDE that project folder.
+1.	Create a New Unity Project
+	•	Open Unity Hub → New Project → 2D template
+	•	Select the same Unity version as this project
+	•	Name the project and create it
+2.	Replace Project Files
+	•	Close Unity
+	•	Go to the project folder (Windows: C:/Users/.../Unity Projects/YourProjectName/, Mac: /Users/.../Unity Projects/YourProjectName/)
+	•	Delete everything inside
+	•	Copy all files from this repository into the folder (replace Assets, ProjectSettings, Packages)
 
-Copy all files and folders from this repository into that same folder.
+3.	Open the Project
+	•	Open Unity Hub → Open → select the project folder
+	•	Wait for Unity to load the project
 
-(Make sure the Assets, ProjectSettings, and Packages folders all replace the new project’s versions.)
+4.	Play the Game
+	•	Open the main scene (Assets/Scenes/)
+	•	Press the Play button in the Editor
 
-▶️ 3. Open the Project in Unity
 
-Open Unity Hub again.
+## Promotional Image
 
-Click Open.
+![App Screenshot](https://github.com/user-attachments/assets/db7381e1-f75a-42d6-8b4e-b04bceaf9b11)
 
-Select the folder where you pasted these files.
 
-Unity will load the project—this may take a moment the first time.
+## Main Menu
 
-🎮 4. Play the Game
+![App Screenshot](https://raw.githubusercontent.com/SaeedAAli/L3-Extended-Diploma-Creative-Media-Y2-2024-2025/main/ezgif.com-video-to-gif-converter.gif)
 
-Once the project finishes loading, open the main scene (usually found under Assets/Scenes/).
 
-Press the Play button at the top of the Editor.
 
-You’re all set! 🎉
- 
+## Level 1
+
+Level Location: Green Zone Park
+
+![App Screens](https://raw.githubusercontent.com/SaeedAAli/L3-Extended-Diploma-Creative-Media-Y2-2024-2025/main/level1gifrepoleap-ezgif.com-video-to-gif-converter.gif)
+
+
+## Level 2
+
+Level Location: Industrial Zone
+
+![App Screenshot](https://raw.githubusercontent.com/SaeedAAli/L3-Extended-Diploma-Creative-Media-Y2-2024-2025/main/level2gifrepoleap-ezgif.com-video-to-gif-converter.gif)
+

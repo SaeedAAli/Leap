@@ -46,10 +46,12 @@ This project is a 2D Fast-paced Side-scroller Platformer built using the Unity E
 	•	Open Unity Hub → Open → select the project folder
 	•	Wait for Unity to load the project
 ```
+```
 4.	Play the Game
 	•	Open the main scene (Assets/Scenes/)
 	•	Press the Play button in the Editor
 	•	Or Having the Option to Build the game and play it full Screen
+```
 
 ## Promotional Image
 

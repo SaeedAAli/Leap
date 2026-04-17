@@ -28,25 +28,28 @@ This project is a 2D Fast-paced Side-scroller Platformer built using the Unity E
 - Sliding: Left Shift
 
 ## How to Run the Game
-
+```
 1.	Create a New Unity Project
 	•	Open Unity Hub → New Project → 2D template
 	•	Select the same Unity version as this project
 	•	Name the project and create it
+```
+```
 2.	Replace Project Files
 	•	Close Unity
 	•	Go to the project folder (Windows: C:/Users/.../Unity Projects/YourProjectName/, Mac: /Users/.../Unity Projects/YourProjectName/)
 	•	Delete everything inside
 	•	Copy all files from this repository into the folder (replace Assets, ProjectSettings, Packages)
-
+```
 3.	Open the Project
 	•	Open Unity Hub → Open → select the project folder
 	•	Wait for Unity to load the project
-
+```
+```
 4.	Play the Game
 	•	Open the main scene (Assets/Scenes/)
 	•	Press the Play button in the Editor
-
+```
 
 ## Promotional Image
 
